@@ -13,4 +13,12 @@ The final update was made on May 15, 2021 with version 22.1 and the update has o
 Any feedback via Telegram:
 https://t.me/Revolution2022
 
+# System Requirements
+* Windows NT and later
+* WineHQ 6.0.1 and later (Recommended 8.0)
+* Intel / AMD Processor that supported Windows 7 and later
+* 256MB RAM
+* Intergrated GPU for accelerate processing
+* 640 x 680 screen size
+
 ![SCFTool](SCFTool.PNG)
