@@ -2,7 +2,7 @@
 
 Hello, I'm Farid Rid or better known as @Revolution2022 on Telegram.
 
-SCF Tool is a Secret Collecting Files written using Batch Script as a hobby on January 9, 2013.
+SCF Tool is a Secret Collecting Files written with Batch Script as a hobby on January 9, 2013.
 
 SCF Tool aims to collect several file formats that I have set just pressing the number button.
 
