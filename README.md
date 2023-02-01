@@ -19,6 +19,6 @@ https://t.me/Revolution2022
 * Intel / AMD Processor that supported Windows 7 and later
 * 256MB RAM
 * Intergrated GPU for accelerate processing
-* 640 x 680 screen size
+* 640 x 480 screen size
 
 ![SCFTool](SCFTool.PNG)
