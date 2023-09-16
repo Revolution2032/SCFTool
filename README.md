@@ -15,7 +15,7 @@ https://t.me/Revolution2022
 
 # System Requirements
 * Windows NT and later
-* WineHQ 6.0.1 and later (Recommended 8.0)
+* WineHQ 5.0.x and later (Recommended 8.0)
 * Intel / AMD Processor that supported Windows 7 and later
 * 256MB RAM
 * Intergrated GPU for accelerate processing
