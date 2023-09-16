@@ -8,7 +8,7 @@ SCF Tool aims to collect several file formats that I have set just pressing the 
 
 After several years of updating the code, I hereby announce the SCF Tool source code to the public. It is good for everyone to use for personal or commercial improvement and use.
 
-The final update was made on May 15, 2021 with version 22.1 and the project has officially has been discontinued.
+The final update was made on May 15, 2021 with version 22.1 and the project officially has been discontinued.
 
 Any feedback via Telegram:
 https://t.me/Revolution2022
