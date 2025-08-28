@@ -13,6 +13,9 @@ The final update was made on May 15, 2021 with version 22.1 and the project offi
 Any feedback via Telegram:
 https://t.me/Revolution2022
 
+Donate:
+0x2CbD8b2Da24492065F664a01529B5E3BFC8E2ae3
+
 # System Requirements
 * Windows NT and later
 * WineHQ 5.0.x and later (Recommended 8.0)
