@@ -16,6 +16,9 @@ https://t.me/Revolution2022
 Donate Ethereum (ETH):
 0x2CbD8b2Da24492065F664a01529B5E3BFC8E2ae3
 
+Donate Xelis (XEL):
+xel:82mwzht462k2mehu6tp8g09kujmegwxm63tmes2yrxx25dj0nadsqqq7d8t
+
 # System Requirements
 * Windows NT and later
 * WineHQ 5.0.x and later (Recommended 8.0)
