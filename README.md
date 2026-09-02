@@ -1,6 +1,6 @@
 # SCFTool
 
-Hello, I'm Farid Rid or better known as @Revolution2022 on Telegram.
+Hello, I'm Farid Rid or better known as @Dlordsociety32 on Telegram.
 
 SCF Tool is a Silent Collecting Files written with Batch Script as a hobby on January 9, 2013.
 
