@@ -11,7 +11,7 @@ After several years of updating the code, I hereby announce the SCF Tool source 
 The final update was made on May 15, 2021 with version 22.1 and the project officially has been discontinued.
 
 Any feedback via Telegram:
-https://t.me/Revolution2022
+https://t.me/Dlordsociety32
 
 Donate Ethereum (ETH):
 0x2CbD8b2Da24492065F664a01529B5E3BFC8E2ae3
